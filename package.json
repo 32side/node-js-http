@@ -1,8 +1,13 @@
 {
   "name": "node-js-http",
   "version": "1.0.0",
+	"description": "",
   "main": "index.js",
-  "license": "MIT",
+	"scripts": {
+		"test": "echo \"Error: no test specifide\" && exit 1"
+	},
+	"author": "",
+  "license": "ISC",
   "dependencies": {
     "pug": "2.0.0-rc.4"
   },
